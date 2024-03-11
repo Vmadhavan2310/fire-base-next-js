@@ -1,3 +1,4 @@
+'use client';
 import React, { useEffect } from 'react'
 import '../Styles/InputForm.css'
 import { useNavigate } from 'react-router-dom'

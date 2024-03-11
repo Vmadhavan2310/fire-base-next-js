@@ -1,3 +1,4 @@
+'use client';
 import React, { useEffect } from 'react'
 import '../Styles/HomePage.css'
 import EnchanedComp from './EnchanedComp'

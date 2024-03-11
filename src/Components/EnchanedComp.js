@@ -1,4 +1,4 @@
-
+'use client';
 import {createUserWithEmailAndPassword,signInWithEmailAndPassword,GoogleAuthProvider,signInWithPopup,RecaptchaVerifier,signOut,signInWithPhoneNumber,sendPasswordResetEmail} from '@firebase/auth';
 import {auth} from '../Components/FirebaseDoc'
 import { useState } from 'react';
